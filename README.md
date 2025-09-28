@@ -21,7 +21,7 @@ I enjoy blending **technical problem-solving** with **creative storytelling** �
 ---
 
 ## 📂 Featured Projects
-🔹 **[Portfolio Showcase](https://drive.google.com/file/d/1WHrpM6lwCRbAUSLaKgbHgm0eyU6ZZM3a/view?usp=sharing)** – My latest design & video editing work.  
+🔹 **[Portfolio Showcase]((https://github.com/Frost-Fire7/Kirubel-s_Portfolio/blob/main/My_Portfolio.html))** – My latest design & video editing work.  
 🔹 **AI Prompt Engineering Demos** – Prototyping creative AI workflows (Coming soon).  
 🔹 **Electromechanical Projects** – University projects on robotics & automation.  
 
@@ -38,7 +38,7 @@ I enjoy blending **technical problem-solving** with **creative storytelling** �
 📞 +251-97-307-1723  
 ✉️ [kwtensae@gmail.com](mailto:kwtensae@gmail.com)  
 🔗 [LinkedIn](https://www.linkedin.com/in/kirubel-woldetensae-27a200183)  
-🌐 [Portfolio](https://drive.google.com/file/d/1WHrpM6lwCRbAUSLaKgbHgm0eyU6ZZM3a/view?usp=sharing)  
+🌐 [Portfolio](https://github.com/Frost-Fire7/Kirubel-s_Portfolio/blob/main/My_Portfolio.html)  
 
 ---
 
